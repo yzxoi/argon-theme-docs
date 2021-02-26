@@ -1,5 +1,5 @@
 # Argon Theme Docs
 
-[Argon Theme](https://github.com/solstice23/argon-theme) 的文档
+[Argon Theme](https://github.com/solstice23/argon-theme) 文档
 
-迁移中
+正在迁移中...
