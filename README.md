@@ -1,5 +1,5 @@
+![](https://camo.githubusercontent.com/ca16f879fff0099d008c8d4078805b6e550804343893e52f941a9dfd17372b61/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f736f6c737469636532332f63646e406d61737465722f6172676f6e5f6e65775f616e696d6174652e737667)
+
 # Argon Theme Docs
 
-[Argon Theme](https://github.com/solstice23/argon-theme) 文档
-
-正在迁移中...
+[Argon - 一个轻盈、简洁、美观的 WordPress 主题](https://github.com/solstice23/argon-theme) 官方文档
